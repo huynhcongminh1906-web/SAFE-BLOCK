@@ -1,0 +1,6 @@
+{
+  "name": "SAFE-BLOCK",
+  "description": "SAFE-BLOCK is a real-time emergency alert platform that enables communities to send, verify, and receive disaster alerts such as floods, storms, fires, and landslides.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
